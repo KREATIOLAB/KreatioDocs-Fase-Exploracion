@@ -1,5 +1,3 @@
-# Readme Git Programación
-
 # Programación - Fase de Exploración en KreatioDocs
 
 Bienvenidos a la sección de **Programación** de la **Fase de Exploración** en *KreatioDocs*. Esta sección está diseñada para introducirte en el fascinante mundo de la programación, un pilar fundamental en el análisis de datos, machine learning y mucho más.
