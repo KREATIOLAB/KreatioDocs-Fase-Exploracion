@@ -38,8 +38,6 @@ En *KreatioDocs*, encontrarás ejercicios prácticos, material descargable y tut
 - **Tutoriales Interactivos en Español**: Accede a tutoriales gratuitos en *KreatioDocs*.
 - **Material Complementario en GitHub**: Visita nuestro repositorio [nombre del repo](link al repo) para más recursos.
 
-[![GitHub](img/github.png)](https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git)
-
 <aside>
     <a href="https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git">
         <img src="img/github.png" alt="GitHub" width="40px" />
@@ -56,7 +54,7 @@ Suscríbete a nuestro newsletter y conecta con el mundo del dato. Al ser suscrip
 - 📖 **Recursos Premium**
 - 🎁 **Promociones Únicas**
 
-Suscríbete en [www.kreatiolab.com](http://www.kreatiolab.com/).
+Suscríbete en [www.kreatiolab.com](http://www.kreatiolab.com/)
 
 ### Mantente Conectado
 
