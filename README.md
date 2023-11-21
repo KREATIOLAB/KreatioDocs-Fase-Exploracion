@@ -40,7 +40,7 @@ En *KreatioDocs*, encontrarás ejercicios prácticos, material descargable y tut
 
 <aside>
     <a href="https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git">
-        <img src="img/github.png" alt="GitHub" width="40px" />
+        <img src="img/github.png" alt="GitHub" width="40px" /> GitHub
     </a>
 </aside>
 
@@ -60,13 +60,24 @@ Suscríbete en [www.kreatiolab.com](http://www.kreatiolab.com/)
 
 Síguenos y participa en nuestras comunidades en línea para obtener actualizaciones y compartir tus experiencias:
 
-[![Medium](img/medium.jpg)](http://kreatiolab.medium.com)
 
-[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/company/kreatiolab)
-
-[![Facebook](img/facebook.png)](https://www.facebook.com/kreatiolab.ds)
-
-[![Instagram](img/instagram.png)](https://www.instagram.com/kreatiolab_ds/)
+<p align="center">
+    <a href="http://kreatiolab.medium.com">
+        <img src="img/medium.jpg" alt="Medium" width="40px" /> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/company/kreatiolab">
+        <img src="img/linkedin.png" alt="LinkedIn" width="40px" /> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/kreatiolab.ds">
+        <img src="img/facebook.png" alt="Medium" width="40px" /> 
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/kreatiolab_ds/">
+        <img src="img/instagram.png" alt="Instagram" width="40px" /> 
+    </a>    
+</p>
 
 
 
