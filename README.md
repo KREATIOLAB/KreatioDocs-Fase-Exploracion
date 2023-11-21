@@ -62,29 +62,23 @@ Síguenos y participa en nuestras comunidades en línea para obtener actualizaci
 
 
 <p align="center">
-    <a href="http://kreatiolab.medium.com" style="text-decoration: none;>
+    <a href="http://kreatiolab.medium.com" style="text-decoration: none;">
         <img src="img/medium.png" alt="Medium" width="40px" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/company/kreatiolab" style="text-decoration: none;>
+    <a href="https://www.linkedin.com/company/kreatiolab" style="text-decoration: none;">
         <img src="img/linkedin.png" alt="LinkedIn" width="40px" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/kreatiolab.ds" style="text-decoration: none;>
+    <a href="https://www.facebook.com/kreatiolab.ds" style="text-decoration: none;">
         <img src="img/facebook.png" alt="Facebook" width="40px" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/kreatiolab_ds/" style="text-decoration: none;>
+    <a href="https://www.instagram.com/kreatiolab_ds/" style="text-decoration: none;">
         <img src="img/instagram.png" alt="Instagram" width="40px" />
     </a>    
 
-    <a href="https://github.com/KREATIOLAB" style="text-decoration: none;">
-        <img src="img/GitHub-Mark.png" alt="GitHub" width="40px" /> GitHub
-    </a>
-
-
 </p>
-
 
 
 ¡Emprende tu viaje en el mundo de los datos con KreatioLab y transforma tu comprensión del universo digital!
