@@ -40,6 +40,13 @@ En *KreatioDocs*, encontrarás ejercicios prácticos, material descargable y tut
 
 [![GitHub](img/github.png)](https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git)
 
+<aside>
+    <a href="https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git">
+        <img src="img/GitHub-Mark.png" alt="GitHub Mark" width="40px" />
+    </a>
+</aside>
+
+
 ### Únete a la Revolución del Conocimiento
 
 Suscríbete a nuestro newsletter y conecta con el mundo del dato. Al ser suscriptor, disfrutarás de:
