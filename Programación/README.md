@@ -11,7 +11,7 @@ Bienvenidos a la sección de **Programación** de la **Fase de Exploración** en
 
 Aquí encontrarás una serie de tutoriales interactivos que cubren desde la configuración de tu entorno de desarrollo hasta conceptos avanzados en programación. Cada tutorial está diseñado para proporcionarte conocimientos prácticos y teóricos que te permitirán avanzar en tu comprensión del código.
 
-![Cabecera.png](/img/mockupProgramacion.png)
+![mockupProgramacion.png](/img/mockupProgramacion.png)
 
 
 ### Tutoriales Disponibles
@@ -21,12 +21,14 @@ Aquí encontrarás una serie de tutoriales interactivos que cubren desde la conf
 - **Explorando Estructuras de Control**: Profundiza en las estructuras de control en Python, incluyendo bucles y condicionales, para crear programas más dinámicos y eficientes.
 - **Introducción a las Funciones en Python**: Entiende cómo crear y utilizar funciones en Python, una habilidad clave para escribir código modular y reutilizable.
 
+
 ## Objetivos de Aprendizaje
 
 - Familiarizarte con la configuración y uso de entornos de desarrollo integrados.
 - Comprender y aplicar diferentes tipos de secuencias en Python para la gestión de datos.
 - Manejar eficazmente las estructuras de control para la lógica de programación.
 - Desarrollar y utilizar funciones en Python para mejorar la eficiencia y claridad de tu código.
+
 
 ## Recursos Adicionales
 
