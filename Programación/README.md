@@ -9,8 +9,7 @@ Bienvenidos a la sección de **Programación** de la **Fase de Exploración** en
 
 Aquí encontrarás una serie de tutoriales interactivos que cubren desde la configuración de tu entorno de desarrollo hasta conceptos avanzados en programación. Cada tutorial está diseñado para proporcionarte conocimientos prácticos y teóricos que te permitirán avanzar en tu comprensión del código.
 
-![mockupProgramacion.png](/img/mockupProgramacion.png)
-
+![mockupProgramacion.png](img/mockupProgramacion.png)
 
 ### Tutoriales Disponibles
 
