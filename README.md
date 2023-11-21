@@ -76,9 +76,9 @@ Síguenos y participa en nuestras comunidades en línea para obtener actualizaci
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/kreatiolab_ds/" style="text-decoration: none;">
         <img src="img/instagram.png" alt="Instagram" width="40px" />
-    </a>    
-
+    </a>
 </p>
+
 
 
 ¡Emprende tu viaje en el mundo de los datos con KreatioLab y transforma tu comprensión del universo digital!
