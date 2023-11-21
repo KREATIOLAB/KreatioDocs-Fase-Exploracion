@@ -42,7 +42,7 @@ En *KreatioDocs*, encontrarás ejercicios prácticos, material descargable y tut
 
 <aside>
     <a href="https://github.com/KREATIOLAB/KreatioDocs-Fase-Exploracion.git">
-        <img src="img/GitHub-Mark.png" alt="GitHub Mark" width="40px" />
+        <img src="img/github.png" alt="GitHub" width="40px" />
     </a>
 </aside>
 
