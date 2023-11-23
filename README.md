@@ -25,6 +25,7 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
 
     *Ecos de la Antigüedad: Aplicando Matemáticas a los Datos*:
     - Modelos Lineales
+    
 
 - **Probabilidad:**
 
@@ -37,6 +38,7 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
     *El Susurro de Bayes*:
     - Probabilidad Condicional
     - Leyes de la Probabilidad
+
 
 - **Programación:**
 
