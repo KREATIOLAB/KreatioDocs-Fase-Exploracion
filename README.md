@@ -27,12 +27,13 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
     - Modelos Lineales
 
 - **Probabilidad:**
+
     *Introducción*:
     - Linda la Banquera
 
     *Matemáticas de Probabilidad*:
     - Probabilidad Conjunta
-    
+
     *El Susurro de Bayes*:
     - Probabilidad Condicional
     - Leyes de la Probabilidad
