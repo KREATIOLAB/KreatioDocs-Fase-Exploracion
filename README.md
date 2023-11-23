@@ -22,27 +22,34 @@ La **Fase de Exploración** es tu punto de partida en **KreatioLab**, donde, al 
 Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos contenidos añadidos semanalmente:
 
 - **Matemáticas Básicas y Cálculo**:
+
     *Ecos de la Antigüedad: Aplicando Matemáticas a los Datos*:
     - Modelos Lineales
 
 - **Probabilidad:**
     *Introducción*:
-        - Linda la Banquera
+    - Linda la Banquera
+
     *Matemáticas de Probabilidad*:
-        - Probabilidad Conjunta
+    - Probabilidad Conjunta
+    
     *El Susurro de Bayes*:
-        - Probabilidad Condicional
-        - Leyes de la Probabilidad
-        
+    - Probabilidad Condicional
+    - Leyes de la Probabilidad
+
 - **Programación:**
+
     *Códigos de la Eternidad*:
-        - Instalación Entornos de Desarrollo (IDEs) 
+    - Instalación Entornos de Desarrollo (IDEs)
+
     *Las estructuras que preservan y protegen*:
-        - Secuencias: Listas, Tuplas, Diccionarios y Sets
+    - Secuencias: Listas, Tuplas, Diccionarios y Sets
+
     *Guardianes de Datos*:
-        - Explorando Estructuras de Control
+    - Explorando Estructuras de Control
+
     *Los hechizos del programador*:
-        - Funciones con Múltiples Parámetros en Python
+    - Funciones con Múltiples Parámetros en Python
 
 
 ![mockupLanding.png](img/mockupLanding.png)
