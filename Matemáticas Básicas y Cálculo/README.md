@@ -8,7 +8,7 @@ Bienvenidos a la sección de **Matemáticas Básicas y Cálculo** de la **Fase d
 
 Aquí encontrarás una serie de tutoriales interactivos que cubren desde las funciones lineales hasta conceptos avanzados en el cálculo. Cada tutorial está diseñado para proporcionarte conocimientos prácticos y teóricos que te permitirán avanzar en tu comprensión de innmeso mundo de las matemáticas.
 
-![mockupProgramacion.png](img/Mockup_GitHub_Matemáticas.png)
+![Mockup_GitHub_Matematicas.png](img/Mockup_GitHub_Matematicas.png)
 
 ### Tutoriales Disponibles
 

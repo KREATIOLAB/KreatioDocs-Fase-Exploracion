@@ -8,7 +8,7 @@ Bienvenidos a la sección de **Probabilidad** de la **Fase de Exploración** en 
 
 Aquí encontrarás una serie de tutoriales interactivos que cubren desde la base del cálculo de la probabilidad hasta llegar a una intuición de lo que es el Teorema de Bayes. Cada tutorial está diseñado para proporcionarte conocimientos prácticos y teóricos que te permitirán avanzar en tu comprensión de las probabilidades.
 
-![mockupProgramacion.png](img/Mockup_GitHub_Probabilidad.png)
+![Mockup_GitHub_Probabilidad.png](img/Mockup_GitHub_Probabilidad.png)
 
 ### Tutoriales Disponibles
 
