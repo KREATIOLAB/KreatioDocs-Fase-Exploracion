@@ -13,11 +13,12 @@ Aquí encontrarás una serie de tutoriales interactivos que cubren desde los est
 ### Tutoriales Disponibles
 
 - **Estadísticos de Localización**: Conoce las diferencias, así como las ventajas y desventajas de los diferentes estadísticos de tendencia central. Aplícalos usando tanto la lógica como las librerías que exiten hoy en día.
+- **Estadísticos de Variabilidad**: Conoce los distintos estadísticos que miden la dispersión o la variabilidad de los datos. Aprende sus principales ventajas y desventajas usando Python.
 
 ## Objetivos de Aprendizaje
 
 - Aprender los diferentes tipos de estadísticos y sus principales usos en la Estadística Descriptiva.
-- Aplicación e implementación de las diferentes ecuaciones y lógicas estadíisticas en un lenguaje de programación como Python.
+- Aplicación e implementación de las diferentes ecuaciones y lógicas estadísticas en un lenguaje de programación como Python.
 
 ## Recursos Adicionales
 
