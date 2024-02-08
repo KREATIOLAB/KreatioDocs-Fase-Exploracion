@@ -17,6 +17,7 @@ Aquí encontrarás una serie de tutoriales interactivos que cubren desde la conf
 - **Secuencias: Listas, Tuplas, Diccionarios y Sets**: Descubre cómo manejar diferentes tipos de secuencias en Python, un componente esencial para la manipulación de datos.
 - **Explorando Estructuras de Control**: Profundiza en las estructuras de control en Python, incluyendo bucles y condicionales, para crear programas más dinámicos y eficientes.
 - **Introducción a las Funciones en Python**: Entiende cómo crear y utilizar funciones en Python, una habilidad clave para escribir código modular y reutilizable.
+- **Hands-On: Manipulación y Análisis de Datos Musicales con Python: Aplicando Conceptos Fundamentales**: Adquiere habilidades prácticas en Python para el análisis de datos, además de aplicar los conceptos teóricos previamente vistos en un contexto emocionante y creativo como lo es la música.
 
 
 ## Objetivos de Aprendizaje
@@ -25,6 +26,7 @@ Aquí encontrarás una serie de tutoriales interactivos que cubren desde la conf
 - Comprender y aplicar diferentes tipos de secuencias en Python para la gestión de datos.
 - Manejar eficazmente las estructuras de control para la lógica de programación.
 - Desarrollar y utilizar funciones en Python para mejorar la eficiencia y claridad de tu código.
+- Aplicar las diferentes estructuras de Python en el análisis de datos tanto con datos sintéticos como reales.
 
 
 ## Recursos Adicionales

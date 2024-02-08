@@ -39,6 +39,16 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
     - Probabilidad Condicional
     - Leyes de la Probabilidad
 
+    *La Maravilla de Bayes*:
+    - El Teorema de Bayes
+
+
+- **Estadística Descriptiva e Inferencial:**
+
+    *Estadísticos Descriptiva*:
+    - Estadísticos de Localización
+    - Estadísticos de Variabilidad
+
 
 - **Programación:**
 
@@ -53,6 +63,15 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
 
     *Los hechizos del programador*:
     - Funciones con Múltiples Parámetros en Python
+
+    *Ejercicio Práctico Secuencias, Estructuras y Funciones*:
+    - Hands-On: Manipulación y Análisis de Datos Musicales con Python: Aplicando Conceptos Fundamentales
+
+
+- **Data Engineering**:
+
+    *Fundamentos del Big Data*:
+    - Procesamiento batch y concurrencia
 
 
 ![mockupLanding.png](img/mockupLanding.png)
