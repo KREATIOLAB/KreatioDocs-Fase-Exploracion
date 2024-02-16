@@ -67,6 +67,10 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
     *Ejercicio Práctico Secuencias, Estructuras y Funciones*:
     - Hands-On: Manipulación y Análisis de Datos Musicales con Python: Aplicando Conceptos Fundamentales
 
+- **Álgebra Lineal:**
+
+    *Librerías útiles para Álgebra Lineal*:
+    - Introducción a Numpy
 
 - **Data Engineering**:
 
