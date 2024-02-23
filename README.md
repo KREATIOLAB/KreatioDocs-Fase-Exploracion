@@ -72,6 +72,11 @@ Actualmente, ofrecemos los siguientes tutoriales interactivos, con nuevos conten
     *Librerías útiles para Álgebra Lineal*:
     - Introducción a Numpy
 
+- **Machine Learning**:
+
+    * *Regresión Lineal*:
+    - Hands-On: Análisis y Predicción del Consumo de Cerveza con Python: Aplicando Regresión Lineal
+
 - **Data Engineering**:
 
     *Fundamentos del Big Data*:
