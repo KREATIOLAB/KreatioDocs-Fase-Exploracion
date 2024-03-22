@@ -13,6 +13,7 @@ Aquí encontrarás una serie de tutoriales interactivos que cubren desde los con
 ### Tutoriales Disponibles
 
 - **Hands-On: Análisis y Predicción del Consumo de Cerveza con Python: Aplicando Regresión Lineal**: En este primer tutorial, abordaremos los conceptos fundamentales del modelo de machine learning con Python, específicamente con la librería de Scikit Learn, analizando y prediciendo el consumo de una de las bebidas más conocidas del mundo a través de datos.
+- **Hands-On: Naive Bayes con Scikit-Learn**: En este tutorial, aprenderemos cómo instanciar y entrenar los diferentes tipos de algoritmos de Naive Bayes con la librería de Python especializada en *Machine Learning* llamada *Scikit-Learn*.
 
 ## Objetivos de Aprendizaje
 
