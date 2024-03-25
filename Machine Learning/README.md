@@ -8,7 +8,7 @@ Bienvenidos a la sección de **Machine Learning** de la **Fase de Exploración**
 
 Aquí encontrarás una serie de tutoriales interactivos que cubren desde los conceptos fundamentales hasta conceptos avanzados del *machine learning*. Cada tutorial está diseñado para proporcionarte conocimientos prácticos y teóricos que te permitirán avanzar en tu comprensión del modelo de datos.
 
-![Mockup_GitHub_DE.png](img/Mockup_GitHub_DE.png)
+![Mockup_GitHub_Machine_Learning_Essentials.png](img/Mockup_GitHub_Machine_Learning_Essentials.png)
 
 ### Tutoriales Disponibles
 
